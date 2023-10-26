@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santi91218
+@Santi91218
 
 <h1 align="center">Hi 👋, I'm Santiago Segura</h1>
 <h3 align="center">Estudio en la UTN la Tecnicatura en Programación. Tengo 19 años. Vivo en San Rafael, Mendoza, Argentina.</h3>
