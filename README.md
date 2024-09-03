@@ -1,7 +1,7 @@
 @Santi91218
 
 <h1 align="center">Hi 👋, I'm Santiago Segura</h1>
-<h3 align="center">Estudio en la UTN la Tecnicatura en Programación. Tengo 19 años. Vivo en San Rafael, Mendoza, Argentina.</h3>
+<h3 align="center">Estudio en la UTN la Tecnicatura en Programación. Tengo 20 años. Vivo en San Rafael, Mendoza, Argentina.</h3>
 
 - Correo: **santiagosegura15@hotmail.com**
 
